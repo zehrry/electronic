@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"wxc_",
+				"wx_public"
+			],
+			[
+				"keyw",
+				"keyword3"
+			],
+			[
+				"key",
+				"keyword2"
+			],
+			[
+				"api",
+				"api_datas"
+			],
+			[
+				"ap",
+				"api_datas"
+			],
+			[
+				"WX",
+				"wxPublic"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"wx_",
+				"wx_reply_text"
+			],
+			[
+				"wx",
+				"wx_public"
+			],
+			[
+				"metadata",
+				"METADATA_CONTENT"
+			],
+			[
+				"MSGT",
+				"MSGTYPE_VAL_TEXT"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"callba",
+				"_callbacks"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"META",
+				"METADATA_TOUSERNAME"
+			],
+			[
+				"MSGTYPE_VAL",
+				"MSGTYPE_VAL_TEXT"
+			],
+			[
+				"_m",
+				"_msg_rx"
+			],
+			[
+				"_ms",
+				"_msg_rx_xml"
+			],
+			[
+				"EVENT",
+				"EVENT_VAL_UNSUBSCRIBE"
+			],
+			[
+				"MSGTYPE_val",
+				"MSGTYPE_VAL_LOCATION"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"wxpu",
+				"wxPublic"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"typ",
+				"type_string"
+			],
+			[
+				"sc",
+				"sc_debug"
+			],
+			[
+				"ht",
+				"html-"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"EX",
+				"exit"
+			],
+			[
+				"MS",
+				"msg_reply"
+			],
+			[
+				"_RE",
+				"_reply_xml"
+			],
+			[
+				"wxPU",
+				"wxPublic"
+			],
+			[
+				"wxp",
+				"wxPublicApi"
+			],
+			[
+				"exp",
+				"expires"
+			],
+			[
+				"flo",
+				"flock"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/electronic.git/trunk/source"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/electronic.git/trunk/source/driver/drv_leds_aw20198.h",
+		"/C/Windows/System32/drivers/etc/hosts - 副本",
+		"/C/Users/Administrator/Downloads/jd_sign_bot-master/app.js",
+		"/C/Users/Administrator/Downloads/hello/source/bsp/bsp_timer.c",
+		"/C/Users/Administrator/Desktop/1.php",
+		"/F/root/application/index/view/index/index.html",
+		"/F/root/application/index/controller/Tool.php",
+		"/F/root/extend/suning/SuningApi.php",
+		"/F/root/application/index/view/tool/jdcash.html",
+		"/F/root/application/index/view/tool/index.html",
+		"/F/root/extend/jingtuitui/jttApi.php",
+		"/F/root/extend/jingtuitui/jttApiConfig.php",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/Uart_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/STARTUP.A51",
+		"/F/root/application/api/controller/Weixin.php",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/H/Function_Init.H",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/IO_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/LCD_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/BTM.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/main.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/PWM_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/Timer_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/c/IAP_Init.c",
+		"/C/Users/Administrator/Downloads/SC92F7323_7322_7321_7320_Demo_Code/H/SC92F732X_C.H",
+		"/C/Users/Administrator/Downloads/SOC_IClib/IClib-V4.55-20.07.14.mcux",
+		"/F/root/application/common.php",
+		"/F/root/application/api/controller/Weixin2.php",
+		"/F/root/extend/wxopen/wxOpenApi.php",
+		"/F/root/extend/jingtuitui/index.php",
+		"/F/root/extend/wxopen/wxOpenApi_debug.menu",
+		"/F/root/extend/wxopen/wxOpenApiConfig.php",
+		"/F/root/extend/wxopen/wxOpenApiConfig_debug.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1607235511/mapped/htdocs/extend/wxopen/wxOpenApi_debug.access.token",
+		"/F/root/extend/ftqq/ServerChanApi.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1607235341/mapped/htdocs/extend/wxopen/wxOpenApi_debug.access.token",
+		"/F/root/extend/wxopen/wxOpenApi.menu",
+		"/F/root/extend/wxopen/wxOpenApi_debug.access.token",
+		"/F/root/xhfinance/e-weixin/class/wxPublic1.php",
+		"/F/root/extend/wxopen/xhfinance/1",
+		"/F/root/extend/wxopen/wxOpenApi.access.token",
+		"/F/root/extend/wxopen/wxPublicMsgRxConfig.php",
+		"/F/root/extend/wxopen/wxPublicMsgReplyConfig.php",
+		"/F/root/config/app.php",
+		"/F/root/extend/wxopen/wxOpenApi_debug.cfg",
+		"/C/Users/Administrator/Desktop/160233gzaa9xtrrxszqaj9.jpg",
+		"/C/Users/Administrator/Downloads/3404636630d4621cb588f5284190ff5e/源码.html",
+		"/F/root/application/index/controller/Search.php",
+		"/C/Users/Administrator/Downloads/jd_sign_bot-master/.github/workflows/work.yaml",
+		"/F/root/xhfinance/e-service/jd/JdServiceGoods.php",
+		"/F/root/xhfinance/e-service/IServiceGoods.php",
+		"/F/root/extend/wxopen/config/wxPublicMsgReplyConfig.php",
+		"/F/root/xhfinance/e-weixin/class/wxPublic.php",
+		"/F/root/xhfinance/e-weixin/sdk/WXSdk.php",
+		"/F/root/extend/wxopen/wxOpenApi.cfg",
+		"/F/root/extend/wxopen/wxPublicApi.cfg",
+		"/C/Users/Administrator/Desktop/DSC_0711.JPG",
+		"/F/root/favicon.ico",
+		"/F/root/extend/wxopen/wxPublicApi.php",
+		"/F/root/extend/wxopen/wxOpenReplyApi.php",
+		"/F/root/extend/wxopen/wxPublicReplyApi.php",
+		"/C/Users/Administrator/Desktop/微信图片_20201108105840.png",
+		"/F/root/extend/xhfinance/XHttp.php",
+		"/F/root/CHANGELOG.md",
+		"/F/root/extend/ftqq/ServerChanApiConfig.php",
+		"/F/root/.htaccess",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1604802013/mapped/htdocs/extend/wxopen/wxOpenApi.php",
+		"/C/Users/Administrator/Desktop/M2100.CTG",
+		"/F/root/application/index/view/search/index.html",
+		"/F/root/xhfinance/e-commerce/class/ecJingdong.php",
+		"/C/Users/Administrator/Desktop/PNG1",
+		"/F/root/xhfinance/e-utility/Jingtuitui.Class.php",
+		"/F/root/extend/jingdong/JingdongApi.php",
+		"/C/Users/Administrator/Desktop/AC051肥胖款_定位_1.plt5.plt",
+		"/F/root/application/index/view/task/go.html",
+		"/C/Users/Administrator/Desktop/新建 XLSX 工作表.xlsx",
+		"/F/root/config/log.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1603627943/mapped/htdocs/runtime/log/202010/25.log",
+		"/F/root/extend/wxopen/sdk/wxPublic.php",
+		"/F/root/xhfinance/e-utility/XHGold.Class.php",
+		"/F/root/xhfinance/e-utility/XHttp.Class.php",
+		"/F/root/extend/taokouling/TklApi.php",
+		"/F/root/extend/wxopen/wxPublicApiConfig.php",
+		"/F/root/route/route.php",
+		"/F/root/application/t/controller/Common.php",
+		"/F/root/xhfinance/e-weixin/class/MessageEntity.php",
+		"/F/root/extend/wxopen/config/wxPublicMsgRxConfig.php",
+		"/F/root/extend/wxopen/config/wxPublicConfig.php",
+		"/F/root/extend/wxopen/sdk/weixin_public.php",
+		"/F/root/application/api/controller/Index.php",
+		"/F/root/thinkphp/library/think/Log.php",
+		"/F/root/thinkphp/library/think/facade/Log.php",
+		"/F/root/sftp-config.json",
+		"/F/root/application/buy/controller/Index.php",
+		"/F/root/application/command.php",
+		"/F/root/application/t/controller/Sn.php",
+		"/F/root/application/txt/controller/Index.php",
+		"/F/root/application/admin/controller/System.php",
+		"/F/root/application/.htaccess",
+		"/F/root/xhfinance/e-service/ServiceGoods.php",
+		"/C/Users/Administrator/Desktop/新建文件夹 (7).zip",
+		"/F/zehrry/root_xhfinance20201024/xhfinance/e-commerce/sdk/jingdong/JingdongUnionClient.php",
+		"/F/zehrry/root_xhfinance20201024/xhfinance/e-service/jd/JdServiceGoods.php",
+		"/F/zehrry/root_xhfinance20201024/config/app.php",
+		"/F/zehrry/root_xhfinance20201024/.htaccess",
+		"/C/Users/Administrator/Desktop/root/sftp-config.json",
+		"/C/Users/Administrator/Desktop/root/build.php",
+		"/C/Users/Administrator/Desktop/微信图片_20201024171826.png",
+		"/C/Users/Administrator/Desktop/DEMO/demo.sublime-project",
+		"/C/Users/Administrator/Desktop/DEMO/man.php",
+		"/C/Users/Administrator/Desktop/DEMO/sftp-config.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/qdm18315474.my3w.com",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 221.0
+	},
+	"pinned_build_system": "",
+	"project": "electronic.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 457.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
