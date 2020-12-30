@@ -76,9 +76,15 @@
 #define ADDR_REG_PAGE3_PATG(x)		(x)			/*!< PATGx Choice Register(x=0...65)			*/
 #define ADDR_REG_PAGE4_PWM_SL(x)	(x)			/*!< PWMx+SLx Register(x=0...197)				*/
 /*!<--------------------------------------------------------------------------------------------*/
+#define VAL_REG_PAGE(x)				(0xC0|(x))	/*!< PAGEx register's Value(x=0...4)			*/
+/*!<--------------------------------------------------------------------------------------------*/
+#define ADDR_DEV_AW20198			0x04 		/*!< Communication Address for AW20198			*/
+/*!<--------------------------------------------------------------------------------------------*/
+
 /*!< import */
 extern void 	aw20198_iic_setbyte(uint8_t addr_dev, uint8_t addr_reg, uint8_t val);
 extern uint8_t	aw20198_iic_getbyte(uint8_t addr_dev, uint8_t addr_reg);
+
 /*!< export */
 void aw20198_switchpage(uint8_t page);
 
